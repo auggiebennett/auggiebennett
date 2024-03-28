@@ -1,8 +1,3 @@
-- Hi, I’m @auggiebennett
-- I’m interested in Theology
-- I’m currently learning Rust
+Austin Bennett is a full-stack developer with experience in web development, mobile application development, and IT consulting. He is currently working on a Rust blockchain project and has experience with a variety of technologies including JavaScript, Rust, Flutter, Firebase, SaltStack, and Office 365.
 
-<!---
-auggiebennett/auggiebennett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+LinkedIn: https://www.linkedin.com/in/auggiebennett
